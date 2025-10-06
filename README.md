@@ -47,4 +47,4 @@ To quickly view all the data currently stored in the database, run the readDatab
 
 python readDatabase.py
 
-This script will print all customer records directly to your terminal.
+This script will print all customer records directly to your terminal..
